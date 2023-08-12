@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: rgb(5, 5, 63);
+}
+
+/* body {
+    :root {
+        --main-color1:#0A121F;
+        --main-color2:#08101D;
+        --btn-color:#3A68B8;
+        --headline-color:#3A68B8;
+    }
+} */
+
+
+/* ANVAR KHALIDIN YAZDIGI KODLAR */
+.teqdimat {
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    /* justify-content: center; */
+}
+
+.partnyorluqlar {
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.apply-section {
+    /* background-color: red; */
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.client-feedback {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    color: white;
+    padding-top: 100px;
+}
+
+.client-feedback h1 {
+    font-size: 70px;
+
+
+}
+
+.client-feedback h6 {
+    font-size: 25px;
+    padding-top: 50px;
+}
+
+/*  ANVAR KHALIDIN YAZDIGI KODLAR END*/
+
+
+.left-side {
+    margin-left: 100px;
+    padding: 30px;
+}
+
+.left-side h1 {
+    color: #3A68B8;
+}
+
+.left-side h2 {
+    color: white;
+    font-size: 70px;
+    padding-top: 1%;
+}
+
+.left-side h3 {
+    padding-top: 3%;
+    color: white;
+}
+
+.linkler a {
+
+    text-decoration: none;
+    color: white;
+    justify-content: center;
+}
+
+header {
+    display: flex;
+    /* justify-content: space-between; */
+    justify-content: space-around;
+    align-items: center;
+}
+
+.right-side button {
+    background-color: #3A68B8;
+    border: none;
+    color: #fff;
+    width: 112px;
+    height: 52px;
+    border-radius: 6px;
+    margin-right: 100px;
+
+}
+
+
+.sag-teref h1 {
+    color: white;
+    font-size: 40px;
+}
+
+.sag-teref h6 {
+    color: white;
+    margin-top: 30px;
+    font-size: 15px;
+}
+
+.sag-photo h1 {
+    color: white;
+    font-size: 40px;
+    margin-top: 5%;
+}
+
+.sag-photo h6 {
+    color: white;
+    font-size: 15px;
+    margin-top: 1%;
+}
+
+
+.sag-teref button {
+    background-color: #3A68B8;
+    border: none;
+    color: white;
+    width: 150px;
+    height: 52px;
+    border-radius: 6px;
+    margin-top: 30px;
+}
+
+.left-side button {
+    background-color: #3A68B8;
+    border: none;
+    color: white;
+    width: 171px;
+    height: 57px;
+    border-radius: 6px;
+    margin-top: 3%;
+}
+
+
+.left-side button {
+    background-color: #3A68B8;
+    border-radius: none;
+    color: white;
+    width: 217px;
+    height: 57px;
+    border-radius: 6px;
+}
+
+
+
+.teqdimat-sol-teref h3 {
+    color: #3A68B8;
+    padding-top: 50px;
+    margin-right: 20px;
+}
+
+.teqdimat-sol-teref h1 {
+    color: white;
+}
